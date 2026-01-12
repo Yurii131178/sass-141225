@@ -172,16 +172,8 @@ meter {
   line-height: 20px;
   letter-spacing: 0.07px;
   text-align: center;
-  color: #ffffff;
   border-radius: 20px;
-}
-
-.badge-completed {
-  background-color: #4a61d8;
-}
-
-.badge-ended {
-  background-color: #fc5a5a;
+  color: #ffffff;
 }
 
 .badge-active {
